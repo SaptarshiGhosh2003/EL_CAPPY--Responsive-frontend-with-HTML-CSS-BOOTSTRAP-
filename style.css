@@ -1,0 +1,13 @@
+h1,h2,h3,h4,h5,h6 {font-family: "Oswald"}
+body {font-family: "Open Sans"}
+.pst ul li a{
+    text-decoration: none !important;
+}
+.fgc{
+    background-image: url(./mid.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.fgcr{
+    background-color: rgba(0,0,0,0.7);
+}
